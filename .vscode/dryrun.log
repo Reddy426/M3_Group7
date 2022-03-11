@@ -1,0 +1,8 @@
+make -f B:\PROJECT\MS_VSCODE\LED_Test --dry-run --always-make --keep-going --print-directory
+make: Entering directory `b:/LTTS/Projects/Module3/M3_Group7'
+ 
+make: B:\PROJECT\MS_VSCODE\LED_Test: Permission denied
+make: *** No targets.  Stop.
+ 
+make: Leaving directory `b:/LTTS/Projects/Module3/M3_Group7'
+ 

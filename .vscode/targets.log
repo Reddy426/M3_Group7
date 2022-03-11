@@ -1,3 +1,4 @@
+make all -f B:\PROJECT\MS_VSCODE\LED_Test --print-data-base --no-builtin-variables --no-builtin-rules --question
 # GNU Make 3.81
 # Copyright (C) 2006  Free Software Foundation, Inc.
 # This is free software; see the source for copying conditions.
@@ -6,7 +7,7 @@
 
 # This program built for i386-pc-mingw32
 
-# Make data base, printed on Sat Mar 12 02:55:53 2022
+# Make data base, printed on Sat Mar 12 03:18:01 2022
 
 # Variables
 
@@ -53,7 +54,7 @@ PROGRAMW6432 = C:\Program Files
 # environment
 PROGRAMDATA = C:\ProgramData
 # environment
-VSCODE_IPC_HOOK_EXTHOST = \\.\pipe\vscode-ipc-f0630b6e-606e-4506-a4ba-d261692c74d7-sock
+VSCODE_IPC_HOOK_EXTHOST = \\.\pipe\vscode-ipc-1d8c966f-6576-40db-be56-b1f22962db9b-sock
 # environment
 VSCODE_CWD = C:\Users\banup\AppData\Local\Programs\Microsoft VS Code
 # environment
@@ -79,7 +80,7 @@ ELECTRON_RUN_AS_NODE = 1
 # automatic
 %F = $(notdir $%)
 # environment
-CHROME_CRASHPAD_PIPE_NAME = \\.\pipe\crashpad_13996_HYSGIXVEJDBXGLID
+CHROME_CRASHPAD_PIPE_NAME = \\.\pipe\crashpad_20768_DUIHIFLGHQTLECWA
 # environment
 VSCODE_PIPE_LOGGING = true
 # environment
@@ -99,7 +100,7 @@ PUBLIC = C:\Users\Public
 # environment
 VSCODE_AMD_ENTRYPOINT = vs/workbench/api/node/extensionHostProcess
 # environment
-VSCODE_CODE_CACHE_PATH = C:\Users\banup\AppData\Roaming\Code\CachedData\8908a9ca0f221f36507231afb39d2d8d1e182702
+VSCODE_CODE_CACHE_PATH = C:\Users\banup\AppData\Roaming\Code\CachedData\c722ca6c7eed3d7987c0d5c3df5c45f6b15e77d1
 # environment
 APPLICATION_INSIGHTS_NO_DIAGNOSTIC_CHANNEL = 1
 # environment
@@ -145,7 +146,7 @@ PROCESSOR_IDENTIFIER = Intel64 Family 6 Model 140 Stepping 1, GenuineIntel
 # environment
 OS = Windows_NT
 # environment
-VSCODE_IPC_HOOK = \\.\pipe\aef4195e1f0cd6537ad72a4effecd658-1.65.1-main-sock
+VSCODE_IPC_HOOK = \\.\pipe\aef4195e1f0cd6537ad72a4effecd658-1.65.2-main-sock
 # environment
 HOMEPATH = \Users\banup
 # environment
@@ -193,7 +194,7 @@ LANG = C
 # environment
 PROCESSOR_LEVEL = 6
 # environment
-VSCODE_PID = 13996
+VSCODE_PID = 20768
 # environment
 USERDOMAIN_ROAMINGPROFILE = DESKTOP-FMLSVJB
 # variable set hash-table stats:
@@ -205,7 +206,7 @@ USERDOMAIN_ROAMINGPROFILE = DESKTOP-FMLSVJB
 
 # Directories
 
-# . (key b:/LTTS/Projects/Module3/M3_Group7, mtime 1646986299): 7 files, no impossibilities.
+# . (key b:/LTTS/Projects/Module3/M3_Group7, mtime 1647033953): 7 files, no impossibilities.
 # C:\WinAVR-20100110\bin (key C:/WinAVR-20100110/bin, mtime 1644837714): 75 files, no impossibilities.
 # C:\WinAVR-20100110\utils\bin (key C:/WinAVR-20100110/utils/bin, mtime 1644837725): 99 files, no impossibilities so far.
 
@@ -260,7 +261,7 @@ B:\PROJECT\MS_VSCODE\LED_Test:
 # strcache size: total = 4096 / max = 4096 / min = 4096 / avg = 4096
 # strcache free: total = 4066 / max = 4066 / min = 4066 / avg = 4066
 
-# Finished Make data base on Sat Mar 12 02:55:53 2022
+# Finished Make data base on Sat Mar 12 03:18:01 2022
 
  
 make: B:\PROJECT\MS_VSCODE\LED_Test: Permission denied
